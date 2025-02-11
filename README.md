@@ -211,4 +211,4 @@ This assumes that the required Python packages are installed in the environment 
 
 ## License
 
-Since I barely even wrote this anyway, this project is dedicated to the public domain under the CC0 License. See the [LICENSE](LICENSE) file for details.
+Since I barely even wrote this anyway, this project is dedicated to the public domain under the [Unlicense](https://unlicense.org). See the [LICENSE](LICENSE) file for details.
